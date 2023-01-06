@@ -1,0 +1,12 @@
+name: Core
+version: '${version}'
+main: me.zoxymodz.core.Core
+authors: [ zoxymodz ]
+commands:
+  spawn:
+  test:
+  grade:
+  menu:
+  f2w:
+  atouts:
+  annonce:
